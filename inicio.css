@@ -1,0 +1,74 @@
+.container-body {
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+}
+
+.head-img {
+    text-align: center;
+}
+
+.head-img img {
+    margin-top: 20px;
+    width: 800px;
+}
+
+body{
+    background: rgb(40,38,74);
+background: linear-gradient(90deg, rgba(40,38,74,1) 16%, rgba(55,30,62,1) 37%, rgba(98,31,113,1) 66%, rgba(32,31,40,1) 87%);
+}
+.container-desc{
+    text-align: center;
+}
+h1{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 80px;
+    color: aliceblue;   
+}
+p{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 50px;
+    color: aliceblue;  
+}
+.navbar-brand{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    color: aliceblue; 
+}
+.offcanvas-title{
+    font-family: 'Press Start 2P', cursive;
+    color: aliceblue; 
+}
+h2{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.parrafo{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 35px;
+    color: aliceblue;  
+}
+.img-fluid {
+    border-radius: 25px;
+    margin-left : 423px;
+    margin-right: 450px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+h3{
+    font-family: 'Gruppo', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: red;
+    background-image: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
